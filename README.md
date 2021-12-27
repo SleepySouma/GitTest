@@ -1,7 +1,5 @@
 # GitTest
 
-An already existing local git repository. Made some git tests on it and decided to share it here.
-
 This one's for MIOLA Students, who are here for the practical workshop:
 - Clone this project on your desktop app
 - Go to the ContributorsList branch
@@ -13,4 +11,3 @@ This one's for MIOLA Students, who are here for the practical workshop:
 - Then submit a Pull Request
 - I will accept as many as possible during the time we have left
 
-Things to explore later: actions, more security settings...
